@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "cachupin",
+      "direccion": "su casa",
+      "email": "cachupin@duocuc.cl",
+      "password": "duoc1234"
+    },
+    {
+      "nombre": "usuario persona",
+      "email": "usuario@duocuc.cl",
+      "direccion": "esquina blanca 505",
+      "password": "duoc1234",
+      "id": 2
+    }
+  ],
+  "asistencia": [],
+  "viajes": []
+}
